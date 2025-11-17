@@ -1,5 +1,7 @@
 import { Hono } from "hono";
 
-const app = new Hono<{ Bindings: Env }>();
+// Placeholder for backend functionality
+// For Netlify deployment, consider using Netlify Functions instead
+const app = new Hono();
 
 export default app;
