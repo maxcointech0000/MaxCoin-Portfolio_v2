@@ -16,7 +16,7 @@ const Testimonials: React.FC = () => {
       company: 'AI Startup',
       testimonial: 'MaxCoinTech delivered an exceptional AI-powered platform that exceeded our expectations. The attention to detail and innovative approach transformed our business operations completely. The project was delivered on time and within budget.',
       rating: 5,
-      avatar: 'https://images.unsplash.com/photo-1494790108755-2616b612b1c0?w=150&h=150&fit=crop&crop=face',
+      avatar: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?w=100&h=100&fit=crop&auto=format&crop=face',
       project: 'AI Analytics Platform'
     },
     {
